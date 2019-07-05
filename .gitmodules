@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = test
+	url = https://github.com/staceb/All-the-tests.git
